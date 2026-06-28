@@ -1,4 +1,4 @@
-# Medival
+# Medieval
 
 ## Setup
 
